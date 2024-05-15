@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="switch_to_the_left">Switch to the left</string>
+    <string name="switch_to_the_right">Switch to the right</string>
+    <string name="movie_name">The Avengers</string>
+    <string name="date">Date</string>
+    <string name="theater">Theater</string>
+    <string name="get_tickets">Get Tickets</string>
+    <string name="select">Select</string>
+    <string name="adult_tickets">Adult Tickets</string>
+    <string name="child_tickets">Child Tickets</string>
+    <string name="total_price">Total Price:</string>
+    <string name="confirm">Confirm</string>
+    <string name="order_details">Order Details</string>
+    <string name="tel_aviv">Tel Aviv</string>
+    <string name="haifa">Haifa</string>
+    <string name="jerusalem">Jerusalem</string>
+    <string name="beer_sheva">Beer Sheva</string>
+    <string name="select_theater">Select Theater</string>
+    <string name="confirmation">OK</string>
+    <string name="cancellation">Cancel</string>
+    <string name="show_description">Show Description</string>
+    <string name="hide_description">Hide Description</string>
+    <string name="validation_alert">Please fill in all fields</string>
+    <string name="movie_description">The Avengers is a Marvel superhero film where Nick Fury brings together all the beloved heroes to stop Loki from conquering Earth with an alien army.</string>
+    <string name="payment_sign">$</string>
+    <string name="your_order_is_confirmed">Your order is confirmed</string>
+    <string name="thank_you_for_your_purchase">Thank you for your purchase\nEnjoy the movie!</string>
+    <string name="tickets">Tickets</string>
+    <string name="_0">0</string>
+    <string name="initialPrice">%d$</string>
+    <string name="close">Close</string>
+    <string name="cancel">Cancel</string>
+    <string name="selected_date">Selected date</string>
+    <string name="selected_theater">Selected theater</string>
+    <string name="selected_tickets">Selected tickets</string>
+    <string name="confirmation_icon">confirmation icon</string>
+
+    <string-array name="tickets_number_array">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+    </string-array>
+</resources>

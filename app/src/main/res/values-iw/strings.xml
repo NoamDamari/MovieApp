@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_name">הנוקמים</string>
+    <string name="date">תאריך</string>
+    <string name="theater">קולנוע</string>
+    <string name="get_tickets">ביצוע הזמנה</string>
+    <string name="select">בחר/י</string>
+    <string name="adult_tickets">כרטיסי מבוגרים</string>
+    <string name="child_tickets">כרטיסי ילדים</string>
+    <string name="total_price">סך הכל לתשלום:</string>
+    <string name="confirm">אישור</string>
+    <string name="order_details">פרטי הזמנה</string>
+    <string name="tel_aviv">תל אביב</string>
+    <string name="haifa">חיפה</string>
+    <string name="jerusalem">ירושלים</string>
+    <string name="beer_sheva">באר שבע</string>
+    <string name="select_theater">בחר/י קולנוע</string>
+    <string name="confirmation">אישור</string>
+    <string name="cancellation">ביטול</string>
+    <string name="show_description">הצג תיאור</string>
+    <string name="hide_description">הסתר תיאור</string>
+    <string name="validation_alert">אנא מלא את כל השדות</string>
+    <string name="movie_description">\"הנוקמים\" הוא סרט גיבורי על מבית מארוול, בו ניק פיורי מאחד את כל הגיבורים האהובים יחדיו כדי לעצור את לוקי מלכבוש לכבוש את כדור הארץ עם צבא חייזרים.</string>
+    <string name="payment_sign">₪</string>
+    <string name="your_order_is_confirmed">ההזמנה אושרה</string>
+    <string name="thank_you_for_your_purchase">תודה על קנייתך\n צפייה מהנה!</string>
+    <string name="tickets">כרטיסים</string>
+    <string name="_0">0</string>
+    <string name="close">סגור</string>
+    <string name="cancel">ביטול</string>
+    <string name="selected_date">תאריך נבחר</string>
+    <string name="selected_theater">קולנוע נבחר</string>
+    <string name="selected_tickets">כרטיסים נבחרים</string>
+    <string name="confirmation_icon">אייקון אישור</string>
+    <string name="initialPrice">%d₪</string>
+    <string name="switch_to_the_left">החלפה לכיוון שמאל</string>
+    <string name="switch_to_the_right">החלפה לכיוון ימין</string>
+</resources>

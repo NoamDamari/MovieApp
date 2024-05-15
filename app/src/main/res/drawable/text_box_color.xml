@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Disabled -->
+    <item
+        android:color="#FF5722"
+        android:state_enabled="false"/>
+
+    <!-- Activated -->
+    <item
+        android:color="@color/white_500"
+        android:state_activated="true"/>
+
+    <!-- Focused -->
+    <item
+        android:color="@color/white_500"
+        android:state_focused="false"/>
+
+    <!-- Normal -->
+    <item
+        android:color="@color/white_500" />
+
+
+
+</selector>
